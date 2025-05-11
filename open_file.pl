@@ -1,3 +1,5 @@
+use strict;
+use warning;
 
 sub main {
   my $file = 'PATH';
